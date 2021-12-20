@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сади</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="reportGG">Очікуваєма темература ; а зараз :</string>
+    <string name="name">Ім\'я</string>
+    <string name="width">маса</string>
+    <string name="add">додати</string>
+    <string name="loginAsLagin">не використовуйте  login як логін</string>
+    <string name="answer">Ваша відповідь</string>
+    <string name="send">Відправити</string>
+    <string name="enter">Вхід</string>
+    <string name="register">Регістрація</string>
+    <string name="err_conn">Помилка підключення</string>
+    <string name="menu_home">Территорії</string>
+    <string name="menu_gallery">Рослини</string>
+    <string name="menu_slideshow">Статистика</string>
+    <string name="menu_lang">Змінити мову на Англійску</string>
+    <string name="menu_exit">Вихід</string>
+</resources>
